@@ -1,0 +1,7 @@
+{
+  "name": "searchShop",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

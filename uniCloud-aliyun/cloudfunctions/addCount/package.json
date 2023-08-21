@@ -1,0 +1,7 @@
+{
+  "name": "removeproduct",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

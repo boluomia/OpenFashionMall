@@ -1,0 +1,7 @@
+{
+  "name": "decrementCount",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
